@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-brightgreen)
 ![](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-Python-orange)
-![](https://img.shields.io/badge/%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7-Sublime-blue)
+![](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-Sublime-blue)
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 <!--
 **FreemanRyan/FreemanRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
