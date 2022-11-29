@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 🌱 My Personal Page 👉 https://freemanryan.github.io  
 💬 Ask me some questions about Effeciency Tools 👉 [https://wx.zsxq.com/dweb2/index/group/88512424255582](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/22bf88bc987c2334fcb82c66a393652a1abdbb5f0a501512a08103c4f1755ce590a95a6cbd36ab2dff1f6e7b8dcf2dfc?pictype=scale&from=30113&version=3.3.3.3&fname=wechat.jpg&size=750/)  
 📫 My E-mail: freemanryan@protonmail.com  
-🔧 My Power Tools:   
+🔧 My Power Tools: Typora
 
 
